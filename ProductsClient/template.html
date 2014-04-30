@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div data-bind="template: { name: 'people-template'}">
+    </div>
+    <script type="text/html" id="people-template"></script>
+    <table>
+        <tbody data-bind="foreach: people">
+            <tr>
+                <td data-bind="text: name"></td>
+            </tr>
+        </tbody>
+    </table>     
+</body>
+</html>
+<script src="Scripts/knockout-2.2.1.js"></script>
+<script>
+    var model = function () {
+
+        this.people = ko.observable(
+            [{ name: 'Manny' },
+            { name: 'Moe' },
+            { name: 'Jack' }
+            ]);
+    }
+
+    ko.applyBindings(new model());
+</script>

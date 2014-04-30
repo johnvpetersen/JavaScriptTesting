@@ -1,0 +1,16 @@
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\bin\ProductsClient.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\bin\ProductsClient.pdb
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\obj\Debug\ProductsClient.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\obj\Debug\ProductsClient.pdb
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\obj\Debug\ProductsClient.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\bin\ProductsClient.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\bin\ProductsClient.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\obj\Debug\ProductsClient.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\obj\Debug\ProductsClient.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsClient\obj\Debug\ProductsClient.pdb
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsClient\bin\ProductsClient.dll.config
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsClient\bin\ProductsClient.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsClient\bin\ProductsClient.pdb
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsClient\obj\Debug\ProductsClient.csprojResolveAssemblyReference.cache
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsClient\obj\Debug\ProductsClient.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsClient\obj\Debug\ProductsClient.pdb

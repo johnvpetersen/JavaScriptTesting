@@ -1,0 +1,5 @@
+c:\users\john.petersen\documents\visual studio 2012\Projects\JavaScript Unit Test Project1\JavaScript Unit Test Project1\bin\Debug\JavaScript Unit Test Project - QUnit3.dll
+c:\users\john.petersen\documents\visual studio 2012\Projects\JavaScript Unit Test Project1\JavaScript Unit Test Project1\bin\Debug\JavaScript Unit Test Project - QUnit3.pdb
+c:\users\john.petersen\documents\visual studio 2012\Projects\JavaScript Unit Test Project1\JavaScript Unit Test Project1\obj\Debug\JavaScript Unit Test Project1.csprojResolveAssemblyReference.cache
+c:\users\john.petersen\documents\visual studio 2012\Projects\JavaScript Unit Test Project1\JavaScript Unit Test Project1\obj\Debug\JavaScript Unit Test Project - QUnit3.dll
+c:\users\john.petersen\documents\visual studio 2012\Projects\JavaScript Unit Test Project1\JavaScript Unit Test Project1\obj\Debug\JavaScript Unit Test Project - QUnit3.pdb

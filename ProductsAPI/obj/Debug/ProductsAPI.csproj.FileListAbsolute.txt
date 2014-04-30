@@ -1,0 +1,211 @@
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ProductsAPI.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ProductsAPI.pdb
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Antlr3.Runtime.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\EntityFramework.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Data.OData.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Newtonsoft.Json.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Spatial.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Helpers.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.OData.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.Tracing.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Mvc.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Optimization.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Providers.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Razor.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\WebGrease.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\EntityFramework.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Newtonsoft.Json.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Helpers.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Mvc.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Razor.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.Tracing.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.OData.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Data.OData.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Spatial.xml
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\de\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\es\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\it\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\obj\Debug\ProductsAPI.csprojResolveAssemblyReference.cache
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\obj\Debug\ProductsAPI.dll
+C:\Users\John.Petersen\documents\visual studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\obj\Debug\ProductsAPI.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ProductsAPI.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ProductsAPI.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Antlr3.Runtime.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\EntityFramework.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Data.OData.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Spatial.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Helpers.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.OData.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.Tracing.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Mvc.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Optimization.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Providers.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Razor.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\WebGrease.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\EntityFramework.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Helpers.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Mvc.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Razor.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.Tracing.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Web.Http.OData.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\Microsoft.Data.OData.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\System.Spatial.xml
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\de\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\es\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\it\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\obj\Debug\ProductsAPI.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\obj\Debug\ProductsAPI.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\PhillyDotNet2013.1\ProductsAPI\obj\Debug\ProductsAPI.pdb
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ProductsAPI.dll.config
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ProductsAPI.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ProductsAPI.pdb
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Antlr3.Runtime.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\EntityFramework.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Microsoft.Data.OData.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Newtonsoft.Json.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Spatial.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Helpers.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Http.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Http.OData.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Http.Tracing.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Mvc.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Optimization.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Providers.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Razor.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.WebPages.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\WebGrease.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\EntityFramework.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Newtonsoft.Json.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Helpers.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Http.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Mvc.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Razor.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.WebPages.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Http.Tracing.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Web.Http.OData.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\Microsoft.Data.OData.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\System.Spatial.xml
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\de\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\es\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\it\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\obj\Debug\ProductsAPI.csprojResolveAssemblyReference.cache
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\obj\Debug\ProductsAPI.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPI\obj\Debug\ProductsAPI.pdb

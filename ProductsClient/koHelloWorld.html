@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <title></title>
+</head>
+<body data-bind="style: {fontFamily: font}">
+    <div>
+     <p data-bind="html: hello"></p><input data-bind="value: hello" />
+     <p data-bind="html: world"></p><input data-bind="value: world" />
+     <h2><span data-bind="text: helloworld, visible: isvisible"> </span></h2>
+     <input type="checkbox" data-bind="checked: isvisible"/> Toggle Visibility
+     <br />
+     <button data-bind="click: clickHandler">Click Me</button>
+     <input data-bind="value: font" />
+</div>
+</body>
+</html>
+<script src="Scripts/knockout-2.2.1.js"></script>
+
+<script>
+    var ViewModel = function (first, last) {
+        var self = this;
+        self.hello = ko.observable(first);
+        self.world = ko.observable(last);
+        self.helloworld = ko.computed(function () {
+            return this.hello() + " " + this.world();
+        }, self);
+        self.isvisible = ko.observable(true);
+
+        self.clickHandler = function (data, event) {
+
+            event.target.innerHTML = "You clicked me!";
+        };
+        self.font = ko.observable("Arial");
+    };
+
+
+
+    ko.applyBindings(new ViewModel("Central Penn", "Code Camp"));
+</script>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41CEEBD5-A22F-467F-91A0-05EA91AA9091}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JavaScript_Unit_Test_Project1</RootNamespace>
+    <AssemblyName>JavaScript Unit Test Project - QUnit3</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="content\css\" />
+    <Folder Include="content\images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="jquery\jquery-2.0.3.js" />
+    <Content Include="qunit\qunit.js" />
+    <Content Include="qunit\qunit-1.12.0.css" />
+    <Content Include="qunit\qunit-1.12.0.js" />
+    <Content Include="scripts\helloWorld.js" />
+    <Content Include="sinon\sinon-1.7.3.js" />
+    <Content Include="sinon\sinon-qunit-1.0.0.js" />
+    <Content Include="tests\helloWorldTest\helloWorldTest.html" />
+    <Content Include="tests\helloWorldTest\helloWorldTest.js" />
+    <Content Include="tests\helloYouTest\helloYouTest.js" />
+    <Content Include="tests\ProductsAPITests\ProductsAPITests.html" />
+    <Content Include="tests\ProductsAPITests\ProductsAPITests.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="tests\chutzpah.json" />
+    <None Include="tests\ProductsAPITests\products.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

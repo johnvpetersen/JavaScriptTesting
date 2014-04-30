@@ -1,0 +1,7 @@
+﻿{
+    "Framework": "qunit|jasmine",
+    "TestHarnessLocationMode": "TestFileAdjacent|SettingsFileAdjacent|Custom",
+    "TestHarnessDirectory": "/testHarness",
+    "TypeScriptCodeGenTarget" : "ES3|ES5",
+    "RootReferencePathMode":"DriveRoot|SettingsFileDirectory"
+}

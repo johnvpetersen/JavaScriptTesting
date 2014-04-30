@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Products</title>
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet" />
+    </head>
+    <body>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="brand" href="#">Products</a>
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                            <li>
+                                <a data-bind='click: addProduct' href="#about">Add Product</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th style="width: 20px">ID</th>
+                    <th style="width: 100px">Name</th>
+                    <th style="width: 20px">Price</th>
+                    <th style="width: 20px"></th>
+                </tr>
+            </thead>
+
+            <tbody data-bind="foreach: products">
+                <tr>
+                    <td style="width: 20px">
+                        <label class="control-label" data-bind="text: Id"></label>
+                    </td>
+                    <td style="width: 50px">
+                        <input type="text" data-bind="value: Name"/>
+                    </td>
+                    <td>
+                        <input type="text" data-bind="value: Price"/>
+                    </td>
+
+                    <td>
+                        <div class="btn-group">
+                            <a class="btn btn-primary" href="#">
+                                <i class="icon-wrench icon-white"></i> Action
+                            </a>
+                            <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#">
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="#" data-bind='click: $root.updateProduct'>
+                                        <i class="icon-pencil"></i> Update
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" data-bind='click: $root.removeProduct'>
+                                        <i class="icon-trash"></i> Delete
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
+
+<script src="Scripts/knockout-2.2.1.debug.js"></script>
+<script src="Scripts/jquery-2.0.0.js"></script>
+<script src="bootstrap/js/bootstrap.js"></script>
+<script src="Scripts/productsAPI.js"></script>
+<script src="Scripts/products.js"></script>

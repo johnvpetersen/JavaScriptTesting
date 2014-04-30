@@ -1,0 +1,5 @@
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPITests\bin\Debug\JavaScript Unit Test Project - QUnit3.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPITests\bin\Debug\JavaScript Unit Test Project - QUnit3.pdb
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPITests\obj\Debug\ProductsAPITests.csprojResolveAssemblyReference.cache
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPITests\obj\Debug\JavaScript Unit Test Project - QUnit3.dll
+C:\Users\John Petersen\documents\visual studio 2013\Projects\Products\ProductsAPITests\obj\Debug\JavaScript Unit Test Project - QUnit3.pdb
